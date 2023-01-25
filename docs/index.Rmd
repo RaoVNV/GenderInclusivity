@@ -1,0 +1,53 @@
+---
+title: "Gender Inclusivity in Statistics and Data Science Education: Project Page"
+output: rmdformats::readthedown
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(rmdformats)
+```
+
+# Project Contributors
+
+In alphabetical order: 
+
+- [Eric Friedlander](https://www.snc.edu/academics/faculty/eric.friedlander.html)
+- [Jax Mader](https://www.math.purdue.edu/people/grad/index.html?student=lmader)
+- [V.N. Vimal Rao](https://raovnv.github.io/research.html)
+
+# Introduction to the Project
+
+Gender is a non-binary construct. However, our textbooks and activities still typically define gender as either “man” or “woman”, and often conflate gender with biological sex (i.e., “male” and “female”). Presently, even if teachers wanted to use gender inclusive datasets and activities, there are little to no resources for them to do so. This project aims to rectify that by acquiring gender inclusive datasets and by creating activities and lesson plans based on these datasets. To ensure that the activities indeed serve to include all individuals, we employ a participatory design-based research method, including individuals with non-cisgender identities from the onset of the project. 
+
+# Funding
+
+This project is generously supported by grant from the Association for Psychological Science's Fund for Teaching and Public Understanding of Psychological Science. 
+
+# Project Goals
+
+Our project has three main objectives: 
+
+- develop a framework for the development of gender inclusive activities by conducting interviews and focus groups with non-cisgender statistics and data science students
+- develop activities to promote gender inclusivity in statistics and data science classrooms by utilizing a participatory design based research method
+- develop assessment tools to measure gender inclusivity in statistics and data science classrooms by utilizing methods for test development consistent with the Standards for Educational and Psychological Testing
+
+# Current Status
+
+Framework development: 
+
+- We have completed our first round of interviews and created a preliminary framework to support the design of gender inclusive activities. 
+
+Activity development: 
+
+- We are nearly finished developing the first version of our activities. 
+- We will next pilot the activities in a small classroom, as well as with focus groups. 
+
+Assessment development: 
+
+- We have created a test blueprint and a first version of our assessment. 
+- We will next pilot the assessment, and conduct cognitive interviews. 
+
+# Upcoming Conference Presentations
+
+- [USCOTS 2023](https://causeweb.org/cause/uscots/uscots23/)
