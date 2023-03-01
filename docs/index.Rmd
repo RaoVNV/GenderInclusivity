@@ -51,3 +51,4 @@ Assessment development:
 # Upcoming Conference Presentations
 
 - [USCOTS 2023](https://causeweb.org/cause/uscots/uscots23/)
+- [IASE 2023 Satellite](https://iase2023satellite.github.io/)
