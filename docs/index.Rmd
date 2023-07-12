@@ -40,15 +40,32 @@ Framework development:
 
 Activity development: 
 
-- We are nearly finished developing the first version of our activities. 
-- We will next pilot the activities in a small classroom, as well as with focus groups. 
+- We have completed developing the first version of our activities. 
+- We have completed piloting the first version of our activities in a small classroom (~ 20 students). 
+- We are currently working on evaluating the results of this pilot implementation, and will soon begin revising the activities based on these evaluations. 
+- We are also currently working on piloting the first version of our activities with target focus groups. 
+- We will next implement our revised activities in one small classroom (~ 20 students) and one large classroom (~ 600 students). 
 
 Assessment development: 
 
 - We have created a test blueprint and a first version of our assessment. 
-- We will next pilot the assessment, and conduct cognitive interviews. 
+- We have completed piloting the first version of our assessment in a small classroom. 
+- We are currently working on evaluating the results of this pilot implementation, and will soon begin revising the assessment based on these evaluations. 
+- We will next implement our revised assessment in one small classroom (~ 20 students) and one large classroom (~ 600 students), as well as conduct cognitive interviews. 
 
-# Upcoming Conference Presentations
+# Conferences
 
-- [USCOTS 2023](https://causeweb.org/cause/uscots/uscots23/)
-- [IASE 2023 Satellite](https://iase2023satellite.github.io/)
+## USCOTS 2023
+
+At the US Conference on Teaching Statistics, the research team shared the framework for design as well as the first version of our activities.  
+
+- Gender Inclusivity from the Perspective of Non-Cisgender Students: [Presentation 1](https://causeweb.org/cause/uscots/uscots23/gender-inclusivity-perspective-non-cisgender-students), [Presentation 2](https://causeweb.org/cause/uscots/uscots23/f03-gender-inclusivity-perspective-non-cisgender-students)
+- Gender inclusive activities in an introductory statistics class: [Presentation 3](https://causeweb.org/cause/uscots/uscots23/f02-gender-inclusive-activities-introductory-statistics-class)
+
+## Upcoming
+
+We will be sharing our work at the following conferences:
+
+- [IASE 2023 Satellite](https://iase2023satellite.github.io/) (more info coming soon)
+- [36th Annual Meeting of the Association for Psychological Science]()
+
