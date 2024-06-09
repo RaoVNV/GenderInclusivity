@@ -36,14 +36,13 @@ Our project has three main objectives:
 
 Framework development: 
 
-- We have completed our first round of interviews and created a preliminary framework to support the design of gender inclusive activities. 
+- We have completed creating a framework to support the design of gender inclusive activities. 
 
 Activity development: 
 
 - We have completed developing the first version of our activities. 
 - We have completed piloting the first version of our activities in a small classroom (~ 20 students). 
 - We are currently working on evaluating the results of this pilot implementation, and will soon begin revising the activities based on these evaluations. 
-- We are also currently working on piloting the first version of our activities with target focus groups. 
 - We will next implement our revised activities in one small classroom (~ 20 students) and one large classroom (~ 600 students). 
 
 Assessment development: 
@@ -53,19 +52,34 @@ Assessment development:
 - We are currently working on evaluating the results of this pilot implementation, and will soon begin revising the assessment based on these evaluations. 
 - We will next implement our revised assessment in one small classroom (~ 20 students) and one large classroom (~ 600 students), as well as conduct cognitive interviews. 
 
-# Conferences
 
-## USCOTS 2023
+# Publications
 
-At the US Conference on Teaching Statistics, the research team shared the framework for design as well as the first version of our activities.  
+- Rao, V.N.V., Mader, J., & Friedlander, E. (2023). A framework for the design of gender inclusive activities. In E.M. Jones (Ed.), *Fostering Learning of Statistics and Data Science: Proceedings of the Satellite Conference of the International Association for Statistical Education.* Available at [https://iase-web.org/Webinars.php?p=230711_2000](https://iase-web.org/Webinars.php?p=230711_2000).
 
-- Gender Inclusivity from the Perspective of Non-Cisgender Students: [Presentation 1](https://causeweb.org/cause/uscots/uscots23/gender-inclusivity-perspective-non-cisgender-students), [Presentation 2](https://causeweb.org/cause/uscots/uscots23/f03-gender-inclusivity-perspective-non-cisgender-students)
-- Gender inclusive activities in an introductory statistics class: [Presentation 3](https://causeweb.org/cause/uscots/uscots23/f02-gender-inclusive-activities-introductory-statistics-class)
 
-## Upcoming
+# Conference Presentations
 
-We will be sharing our work at the following conferences:
+USCOTS 2023
 
-- [IASE 2023 Satellite](https://iase2023satellite.github.io/) (more info coming soon)
-- [36th Annual Meeting of the Association for Psychological Science]()
+- Rao, V.N.V., Mader, J., & Friedlander, E. (2023, June). *[Gender Inclusivity from the Perspective of Non-Cisgender Students](https://causeweb.org/cause/uscots/uscots23/gender-inclusivity-perspective-non-cisgender-students)*. [Lightning Talk]. Consortium for the Advancement of Undergraduate Statistics Education (CAUSE) Research Satellite, State College, Pennsylvania.
 
+- Friedlander, E., Mader, J., & Rao, V.N.V. (2023, June). *[Gender Inclusive Activities in an Introductory Statistics Class](https://causeweb.org/cause/uscots/uscots23/f02-gender-inclusive-activities-introductory-statistics-class)* [Posters and Beyond Presentation]. United States Conference on Teaching Statistics (USCOTS), State College, PA, USA.
+
+- Rao, V.N.V., Mader, J., & Friedlander, E. (2023, June). *[Gender Inclusivity from the Perspective of Non-Cisgender Students](https://causeweb.org/cause/uscots/uscots23/f03-gender-inclusivity-perspective-non-cisgender-students)* [Poster Presentation]. Consortium for the Advancement of Undergraduate Statistics Education (CAUSE) Research Satellite, State College, PA, USA.
+
+
+
+IASE 2023 Satellite
+
+- Rao, V.N.V., Mader, J., & Friedlander, E. (2023, July). A framework for the design of gender inclusive activities [Paper Presentation]. 13th Annual Satellite Conference of the International Association for Statistical Education (IASE), Toronto, Ontario, Canada.
+
+
+PsychTERMS 2023 
+
+- Rao, V.N.V., Mader, J., & Friedlander, E. (2023, December). *[Gender Inclusive Activities and Datasets for Introductory Level Statistics](https://www.psychterms.com/2023-program)* [Poster Presentation]. Teaching to Enhance Research Methods & Statistics in Psychology (PsychTERMS) 2023 Virtual Conference, online. 
+
+
+APS 2024 
+
+- Rao, V.N.V., Mader, J., & Friedlander, E. (2024, May). *A framework for the design of gender inclusive activies* [Poster Presentation]. Annual Meeting of the American Psychological Society (APS), San Francisco, CA, USA.
